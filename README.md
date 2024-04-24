@@ -8,3 +8,4 @@
 7.[ass_7](https://github.com/Bunny1440/Aimllab/blob/main/A7.ipynb)
 8.[ass_8](https://github.com/Bunny1440/Aimllab/blob/main/A8.ipynb)
 9.[ass_9](https://github.com/Bunny1440/Aimllab/blob/main/ass9.ipynb)
+10.[ass 10](https://github.com/Bunny1440/Aimllab/blob/main/Ass_10.ipynb)
